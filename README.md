@@ -2,7 +2,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Perfil de Emanuel Castillo</title>
 </head>
 <body>
   <h1>👋 ¡Hola! Soy Emanuel Castillo</h1>
