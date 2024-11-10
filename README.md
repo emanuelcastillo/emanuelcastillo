@@ -55,9 +55,9 @@
     <li><strong>Correo</strong>: <a href="mailto:emanuel@castillo.gt">emanuel@castillo.gt</a></li>
     <li><strong>GitHub Personal</strong>: <a href="https://github.com/emanuelcastillo">github.com/emanuelcastillo</a></li>
     <li><strong>GitHub Trabajo</strong>: <a href="https://github.com/jculajayuniversales">github.com/jculajayuniversales</a></li>
-    <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/emanuelcastillo">linkedin.com/in/emanuelcastillo</a> <em>(ejemplo)</em></li>
-    <li><strong>Twitter</strong>: <a href="https://twitter.com/emanuel_castillo">@emanuel_castillo</a> <em>(ejemplo)</em></li>
-    <li><strong>Blog personal</strong>: <a href="https://emanuelblog.com">emanuelblog.com</a> <em>(ejemplo)</em></li>
+    <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/emanuelcasti11o">linkedin.com/in/emanuelcastillo</a></li>
+    <li><strong>Twitter</strong>: <a href="https://twitter.com/emanuelcasti11o">@emanuel_castillo</a></li>
+    <li><strong>Blog personal</strong>: <a href="https://emanuel.castillo.gt">emanuelblog.com</a></li>
   </ul>
   <hr>
   <p style="text-align: center"><em>✨ "Creando soluciones tecnológicas para un futuro mejor en Guatemala." ✨</em></p>
