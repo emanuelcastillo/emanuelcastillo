@@ -63,7 +63,7 @@
     <li><strong>GitHub Personal</strong>: <a href="https://github.com/emanuelcastillo">github.com/emanuelcastillo</a></li>
     <li><strong>GitHub Trabajo</strong>: <a href="https://github.com/jculajayuniversales">github.com/jculajayuniversales</a></li>
     <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/emanuelcasti11o">linkedin.com/in/emanuelcasti11o</a></li>
-    <li><strong>Twitter</strong>: <a href="https://twitter.com/emanuelcasti11o">@emanuelcasti11o</a></li>
+    <li><strong>Twitter/X</strong>: <a href="https://x.com/emanuelcasti11o">@emanuelcasti11o</a></li>
     <li><strong>Blog personal</strong>: <a href="https://emanuel.castillo.gt">emanuel.castillo.gt</a></li>
   </ul>
   <hr>
