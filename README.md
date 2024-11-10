@@ -13,6 +13,14 @@
     Trabajo como <strong>Analista Programador</strong> en <a href="https://www.universales.com/" target="_blank">Universales</a>, donde desarrollo servicios web en <strong>Spring Boot</strong> y brindo soporte a aplicaciones desarrolladas en <strong>Flutter</strong>.
   </p>
   <hr>
+    <h3>📊 Estadísticas de GitHub</h3>
+    <div>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuelcastillo&theme=react-dark&area=true&hide_border=true" alt="Gráfico de Actividad en GitHub">
+      <img src="https://github-readme-stats.vercel.app/api?username=emanuelcastillo&show_icons=true&theme=radical" alt="Estadísticas de Emanuel en GitHub">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcastillo&layout=compact&theme=radical" alt="Lenguajes más usados">
+      <img src="https://streak-stats.demolab.com?user=emanuelcastillo&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Racha de Contribuciones">
+    </div>
+  <hr>
   <h3>🚀 Tecnologías y Herramientas</h3>
   <ul>
     <li><strong>Lenguajes:</strong></li>
