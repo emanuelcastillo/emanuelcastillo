@@ -9,9 +9,6 @@
   <p>
     Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad del Valle de Guatemala, Campus Sur. Actualmente trabajo en varios proyectos, incluyendo <strong>AppSim</strong>, una plataforma educativa que busca ayudar a los jóvenes de Guatemala a adquirir habilidades tecnológicas mediante módulos de aprendizaje interactivos y didácticos.
   </p>
-  <p>
-    Trabajo como <strong>Analista Programador</strong> en <a href="https://www.universales.com/" target="_blank">Universales</a>, donde desarrollo servicios web en <strong>Spring Boot</strong> y brindo soporte a aplicaciones desarrolladas en <strong>Flutter</strong>.
-  </p>
   <hr>
     <h3>📊 Estadísticas de GitHub</h3>
     <div>
