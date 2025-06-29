@@ -7,7 +7,7 @@
   <h1>👋 ¡Hola! Soy Emanuel Castillo</h1>
   <h3>🌐 Desarrollador apasionado por la tecnología, sistemas de información y el aprendizaje</h3>
   <p>
-    Soy estudiante de <strong>Ingeniería en Sistemas</strong> en la Universidad del Valle de Guatemala, Campus Sur. Actualmente trabajo en varios proyectos, incluyendo <strong>AppSim</strong>, una plataforma educativa que busca ayudar a los jóvenes de Guatemala a adquirir habilidades tecnológicas mediante módulos de aprendizaje interactivos y didácticos.
+  <strong>Ingeniero en Sistemas</strong> de la Universidad del Valle de Guatemala, Campus Sur.
   </p>
   <hr>
     <h3>📊 Estadísticas de GitHub</h3>
@@ -47,23 +47,15 @@
       <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS Lambda">
   </ul>
   <hr>
-  <h3>🌱 En qué estoy trabajando</h3>
-  <ul>
-    <li><strong>Appsim</strong>: Desarrollo de una plataforma de aprendizaje en informática para jóvenes guatemaltecos, como parte de mi proyecto de graduación.</li>
-    <li><strong>Servicios en la Nube</strong>: Trabajando con AWS para la infraestructura y despliegue de aplicaciones.</li>
-    <li><strong>Spring Boot y Symfony</strong>: Diseño de APIs escalables y seguras.</li>
-  </ul>
-  <hr>
   <h3>📫 Cómo contactarme</h3>
   <ul>
     <li><strong>Correo</strong>: <a href="mailto:emanuel@castillo.gt">emanuel@castillo.gt</a></li>
     <li><strong>GitHub Personal</strong>: <a href="https://github.com/emanuelcastillo">github.com/emanuelcastillo</a></li>
-    <li><strong>GitHub Trabajo</strong>: <a href="https://github.com/jculajayuniversales">github.com/jculajayuniversales</a></li>
     <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/emanuelcasti11o">linkedin.com/in/emanuelcasti11o</a></li>
     <li><strong>Twitter/X</strong>: <a href="https://x.com/emanuelcasti11o">@emanuelcasti11o</a></li>
     <li><strong>Blog personal</strong>: <a href="https://emanuel.castillo.gt">emanuel.castillo.gt</a></li>
   </ul>
   <hr>
-  <p style="text-align: center"><em>✨ "Creando soluciones tecnológicas para un futuro mejor en Guatemala." ✨</em></p>
+  <p style="text-align: center"><em>Aprender, crear y compartir</em></p>
 </body>
 </html>
